@@ -1,5 +1,6 @@
-# project-jarvis
-MY laptop assistant named -JARVIS is  AI based made for my personal use. 
-it is something like a personal varient of cortana where i have trained it myself 
-i can ask him  what is the time and to open various things i want to know it tells me about my father.
-it wishes me according to the time it is a good one. check it out
+# Project-jarvis
+
+Jarvis is a AI based laptop assistant where we can run our system on voice commands .
+jarvis can open apps on any system based on customization . 
+we can run vs code , set reminders , ask date,time and many other stuff.
+To know more about this small beautifull small project do check it out.
